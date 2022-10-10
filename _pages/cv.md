@@ -7,9 +7,7 @@ author_profile: true
 
 Here is a short CV:
 
-* Since 2020: PhD student at the [IMPRS MiS](https://www.imprs-mis.mpg.de/), Leipzig
-* 2019: MSc in Mathematics, [University of Freiburg](http://www.uni-freiburg.de/)
-* 2018: MSc in Interdisciplinary Mathematics, [University of Warwick](https://warwick.ac.uk/), UK
-* 2016: BSc in Mathematics, [University of Freiburg](http://www.uni-freiburg.de/)
+* 2020: M.Sc (18 Years) in Applied Mathematics, [University of ENgineering and Technology](https://www.uetpeshawar.edu.pk/), PK.
+* 2016: M.Sc (16 Years) in Mathematics, [University of Peshawar](http://www.uop.edu.pk/), PK.
 
 A more detailed version of my CV is available on request.
