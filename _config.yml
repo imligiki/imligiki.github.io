@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "PK"
-title                    : "AM"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Asif Ahmad"
 description              : &description "Lecturer in Applied Mathematics"
@@ -84,7 +84,7 @@ author:
   avatar           : "mine.png"
   bio              : "Lecturer in Applied Mathematics<br>Focusing on mathematical machine learning"
   location         : "KPK, PK"
-  employer         :
+  employer         : "GIK Institute"
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GNvZ3ZEAAAAJ&hl=en"
   email            : "asif.ahmad@giki.edu.pk"
@@ -99,7 +99,7 @@ author:
   github           : #"e5150pro"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/@asif.ehmed/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/asifahmadkhan/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "https://twitter.com/asif_ehmed"
   vine             :
   weibo            :
   xing             :
