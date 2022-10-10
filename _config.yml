@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "DE"
+locale                   : "PK"
 title                    : "JM"
 title_separator          : "-"
-name                     : &name "Johannes Müller"
-description              : &description "PhD student at IMPRS MiS"
-url                      : https://muellerjohannes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Asif Ahmad"
+description              : &description "Lecturer in Applied Mathematics"
+url                      : https://asifehmad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "muellerjohannes.github.io"
+repository               : "asifehmad.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johannes Müller"
-  avatar           : "small.png"
-  bio              : "PhD student at IMPRS MiS<br>Focusing on mathematical machine learning"
-  location         : "Leipzig, DE"
+  name             : "Asif Ahmad"
+  avatar           : "mine.png"
+  bio              : "Lecturer in Applied Mathematics<br>Focusing on mathematical machine learning"
+  location         : "KPK, PK"
   employer         :
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.de/citations?user=Wfww-P8AAAAJ&hl=en"
-  email            : "jmueller@mis.mpg.de"
-  researchgate     :  "https://www.researchgate.net/profile/Johannes_Mueller"
+  googlescholar    : #"https://scholar.google.de/citations?user=Wfww-P8AAAAJ&hl=en"
+  email            : "asif.ahmad@giki.edu.pk"
+  researchgate     :  #"https://www.researchgate.net/profile/Johannes_Mueller"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/johannes-m%C3%BCller-266698150/"
+  linkedin         : "https://www.linkedin.com/in/asifahmadkhan/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
