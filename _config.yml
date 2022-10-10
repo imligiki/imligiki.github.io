@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "PK"
-title                    : "JM"
+title                    : "AM"
 title_separator          : "-"
 name                     : &name "Asif Ahmad"
 description              : &description "Lecturer in Applied Mathematics"
@@ -86,9 +86,9 @@ author:
   location         : "KPK, PK"
   employer         :
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.de/citations?user=Wfww-P8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=GNvZ3ZEAAAAJ&hl=en"
   email            : "asif.ahmad@giki.edu.pk"
-  researchgate     :  #"https://www.researchgate.net/profile/Johannes_Mueller"
+  researchgate     :  "https://www.researchgate.net/profile/Asif-Ahmad-10"
   uri              :
   bitbucket        :
   codepen          :
