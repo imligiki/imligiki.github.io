@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "IMLI"
-  avatar           : "mine.png"
-  bio              : "Intedisciplinary Machine Leaning Initiative<br>Focusing on mathematical machine learning"
-  location         : "KPK, PK"
-  employer         : "FES, GIK Institute"
+  avatar           : "IMLI.png"
+  bio              : "Intedisciplinary Machine Leaning Initiative (IMLI)" #<br>Focusing on mathematical machine learning"
+  location         : "FES, GIK Institute, KPK, PK"
+  employer         : #"FES, GIK Institute"
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=GNvZ3ZEAAAAJ&hl=en"
   email            : "imligiki@gmail.com"
