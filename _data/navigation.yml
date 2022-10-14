@@ -1,7 +1,7 @@
 # main links links
 main:
-  # - title: "Research"
-  #  url: /research/
+  - title: "People"
+    url: /people/
     
   - title: "Publications"
     url: /publications/
@@ -10,8 +10,8 @@ main:
   - title: "Activities"
     url: /activities/
   
-  - title: "CV"
-    url: /cv/
+  - title: "Contact"
+    url: /contact/
   # - title: "Notes"
   #  url: /notes/
   # - title: "Random stuff"
