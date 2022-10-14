@@ -7,16 +7,16 @@ author_profile: true
 
 
 
-**Director**
+##Director
 To be added.
 
-**Co-Director**
+##Co-Director
 To be added.
 
-**Members**
+##Members
 To be added.
 
-**Students**
+##Students
 To be added.
 
 
