@@ -2,4 +2,4 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 See the original template at https://academicpages.github.io/
 
-My own page is in progress, can find it here: https://asifehmad.github.io/
+My own page is in progress, can find it here: https://imligiki.github.io/
