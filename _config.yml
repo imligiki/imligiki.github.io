@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "IMLI"
   avatar           : "IMLI.png"
-  bio              : "Intedisciplinary Machine Leaning Initiative (IMLI)" #<br>Focusing on mathematical machine learning"
+  bio              : "Intedisciplinary Machine Learning Initiative (IMLI)" #<br>Focusing on mathematical machine learning"
   location         : "FES, GIK Institute, PK"
   employer         : #"FES, GIK Institute"
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
