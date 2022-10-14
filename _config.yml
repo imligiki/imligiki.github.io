@@ -9,11 +9,11 @@
 locale                   : "PK"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Asif Ahmad"
-description              : &description "Lecturer in Applied Mathematics"
-url                      : https://asifehmad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "IMLI"
+description              : #&description "Lecturer in Applied Mathematics"
+url                      : https://imligiki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "asifehmad.github.io"
+repository               : "imligiki.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Asif Ahmad"
+  name             : "IMLI"
   avatar           : "mine.png"
-  bio              : "Lecturer in Applied Mathematics<br>Focusing on mathematical machine learning"
+  bio              : "Intedisciplinary Machine Leaning Initiative<br>Focusing on mathematical machine learning"
   location         : "KPK, PK"
-  employer         : "GIK Institute"
+  employer         : "FES, GIK Institute"
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=GNvZ3ZEAAAAJ&hl=en"
-  email            : "asif.ahmad@giki.edu.pk"
-  researchgate     :  "https://www.researchgate.net/profile/Asif-Ahmad-10"
+  googlescholar    : #"https://scholar.google.com/citations?user=GNvZ3ZEAAAAJ&hl=en"
+  email            : "imligiki@gmail.com"
+  researchgate     :  #"https://www.researchgate.net/profile/Asif-Ahmad-10"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   github           : #"e5150pro"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/asif.ehmed/"
+  instagram        : #"https://www.instagram.com/asif.ehmed/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/asifahmadkhan/"
+  linkedin         : #"https://www.linkedin.com/in/asifahmadkhan/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/asif_ehmed"
+  twitter          : #"https://twitter.com/asif_ehmed"
   vine             :
   weibo            :
   xing             :
